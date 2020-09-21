@@ -1,5 +1,5 @@
 {
-    "name": "cerbero/query-filters",
+    "name": "fschoepgens/query-filters",
     "type": "library",
     "description": "Filter Laravel Eloquent models based on query parameters.",
     "keywords": [
